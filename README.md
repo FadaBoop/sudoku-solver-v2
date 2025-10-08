@@ -9,3 +9,5 @@ cd build
 cmake ..
 make && ./sudoku-solver
 ```
+
+![solvedSudoku](img/solvedSudoku.png)

@@ -11,3 +11,4 @@ make && ./sudoku-solver
 ```
 
 ![solvedSudoku](img/solvedSudoku.png)
+(Blue numbers being the numbers that the algorithm has placed, and black the ones that came with the sudoku)
